@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Giovanna Alonso
+# 👩🏽‍💻 Giovanna Alonso
 
 **`Desenvolvedora FullStack`**
 
