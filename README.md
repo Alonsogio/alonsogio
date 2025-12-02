@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Giovanna Alonso, tenho 25 anos e sou do Rio de Janeiro. Concluí um curso de Desenvolvimento FullStack. Atualmente, estou cursando Ciência da Computação na Universidade Estácio de Sá. Sou apaixonada por superar desafios e criar soluções que impactem positivamente a vida das pessoas.  
+Me chamo Giovanna Alonso, tenho 26 anos e sou do Rio de Janeiro. Concluí um curso de Desenvolvimento FullStack. Atualmente, estou cursando Ciência da Computação na Universidade Estácio de Sá. Sou apaixonada por superar desafios e criar soluções que impactem positivamente a vida das pessoas.  
 
 ---
 
