@@ -8,9 +8,13 @@ código organizado e experiências digitais simples e funcionais.
 Atualmente, trabalho com **Angular, TypeScript e Node.js**, desenvolvendo
 soluções web e explorando novas formas de criar produtos digitais melhores.
 
+---
+
 ### Stack
 
 `Angular` · `TypeScript` · `JavaScript` · `Node.js` · `React` · `Tailwind CSS` · `PrimeNG`
+
+---
 
 ### Projetos
 
@@ -19,6 +23,8 @@ Plataforma para elaboração, revisão e aperfeiçoamento de documentos com IA.
 
 **Giovanna Portfolio**  
 Portfólio pessoal desenvolvido com Angular, TypeScript, Tailwind CSS e GSAP.
+
+---
 
 ### Contato
 
