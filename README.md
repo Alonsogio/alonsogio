@@ -10,6 +10,17 @@ explorando também arquitetura, APIs e desenvolvimento de produtos web.
 
 ---
 
+### Projetos
+
+**Assistente IA**  
+Aplicação voltada à elaboração, revisão e aperfeiçoamento de documentos
+utilizando inteligência artificial.
+
+**Giovanna Portfolio**  
+Meu portfólio pessoal, desenvolvido com Angular, TypeScript, Tailwind CSS e GSAP.
+
+---
+
 ### Stack
 
 `Angular` · `TypeScript` · `JavaScript` · `Node.js` · `React` · `Tailwind CSS` · `PrimeNG`
